@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e78f155a-843d-4288-a65a-3e6aee440542" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/avenir-next-demi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/avenir-next-demi.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/avenir-next-demi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/avenir-next-medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/avenir-next-medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/avenir-next-medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/avenir-next-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/avenir-next-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/avenir-next-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+            <state relative-caret-position="600">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -133,12 +123,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544463561828</updated>
-      <workItem from="1544463563170" duration="603000" />
+      <workItem from="1544463563170" duration="1088000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="603000" />
+    <option name="totallyTimeSpent" value="1088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -172,8 +162,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+        <state relative-caret-position="600">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
         </state>
       </provider>
     </entry>
